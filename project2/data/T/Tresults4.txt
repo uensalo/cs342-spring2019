@@ -1,0 +1,56 @@
+Execution time for thread 0: 12.804447 sec
+Execution time for thread 1: 12.817940 sec
+Execution time for thread 2: 12.732231 sec
+Execution time for thread 3: 12.722421 sec
+Execution time for thread 4: 12.495146 sec
+Execution time for thread 5: 12.159186 sec
+Execution time for thread 6: 12.697444 sec
+Execution time for thread 7: 12.455977 sec
+Execution time for thread 8: 12.807996 sec
+Execution time for thread 9: 12.741082 sec
+Execution time for thread 10: 12.852466 sec
+Execution time for thread 11: 12.876324 sec
+Execution time for thread 12: 12.672968 sec
+Execution time for thread 13: 12.920000 sec
+Execution time for thread 14: 12.408212 sec
+Execution time for thread 15: 12.878200 sec
+Execution time for thread 16: 12.500981 sec
+Execution time for thread 17: 12.780242 sec
+Execution time for thread 18: 12.542138 sec
+Execution time for thread 19: 12.569566 sec
+Execution time for thread 20: 12.836414 sec
+Execution time for thread 21: 12.921308 sec
+Execution time for thread 22: 12.856602 sec
+Execution time for thread 23: 12.811837 sec
+Execution time for thread 24: 12.749492 sec
+Execution time for thread 25: 12.410806 sec
+Execution time for thread 26: 12.773177 sec
+Execution time for thread 27: 12.526716 sec
+Execution time for thread 28: 12.925032 sec
+Execution time for thread 29: 12.247696 sec
+Execution time for thread 30: 12.747422 sec
+Execution time for thread 31: 12.913787 sec
+Execution time for thread 32: 12.834262 sec
+Execution time for thread 33: 12.674952 sec
+Execution time for thread 34: 12.876158 sec
+Execution time for thread 35: 12.755046 sec
+Execution time for thread 36: 12.645331 sec
+Execution time for thread 37: 12.678085 sec
+Execution time for thread 38: 12.777104 sec
+Execution time for thread 39: 12.880741 sec
+Execution time for thread 40: 12.825920 sec
+Execution time for thread 41: 12.727898 sec
+Execution time for thread 42: 12.884703 sec
+Execution time for thread 43: 12.908763 sec
+Execution time for thread 44: 12.837931 sec
+Execution time for thread 45: 12.879756 sec
+Execution time for thread 46: 12.783641 sec
+Execution time for thread 47: 12.706476 sec
+Execution time for thread 48: 12.736336 sec
+Execution time for thread 49: 12.620171 sec
+Minimum execution time for a thread: 12.159186 sec
+Maximum execution time for a thread: 12.925032 sec
+Sample mean of execution time for a thread: 12.723769 sec
+Sample variance of execution time for a thread: 0.030577 sec
+Sample std. dev. of execution time for a thread: 0.174862 sec
+Total execution time: 12.938167 sec

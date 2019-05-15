@@ -1,0 +1,16 @@
+Execution time for thread 0: 15.125798 sec
+Execution time for thread 1: 15.045359 sec
+Execution time for thread 2: 15.013644 sec
+Execution time for thread 3: 15.074543 sec
+Execution time for thread 4: 15.075494 sec
+Execution time for thread 5: 15.135221 sec
+Execution time for thread 6: 15.099408 sec
+Execution time for thread 7: 15.124765 sec
+Execution time for thread 8: 15.089782 sec
+Execution time for thread 9: 15.131612 sec
+Minimum execution time for a thread: 15.013644 sec
+Maximum execution time for a thread: 15.135221 sec
+Sample mean of execution time for a thread: 15.091562 sec
+Sample variance of execution time for a thread: 0.001623 sec
+Sample std. dev. of execution time for a thread: 0.040281 sec
+Total execution time: 15.136962 sec
