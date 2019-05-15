@@ -1,0 +1,8 @@
+all: bilshell producer consumer
+bilshell: bilshell.c
+	gcc -Wall -g -o bilshell bilshell.c
+producer: producer.c
+	gcc -Wall -g -o producer producer.c
+consumer: consumer.c
+	gcc -Wall -g -o consumer consumer.c
+
